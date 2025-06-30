@@ -37,4 +37,26 @@ It provides a solid foundation for creating system designs, schedules, budgets, 
 
 
 
+## Key Activities in Requirement Analysis
+
+Here are the five key activities involved in the requirement analysis phase of the Software Development Life Cycle (SDLC):
+
+- **Requirement Gathering:**  
+  This is the process of collecting all the necessary requirements from stakeholders, clients, and end-users. It ensures that the project team understands what the users really need.
+
+- **Requirement Elicitation:**  
+  Elicitation involves techniques like interviews, questionnaires, workshops, and brainstorming to uncover hidden or unstated requirements.
+
+- **Requirement Documentation:**  
+  After gathering and eliciting requirements, they are documented clearly and systematically (often in formats like user stories, use case diagrams, or requirement specification docs).
+
+- **Requirement Analysis and Modeling:**  
+  This is where the team analyzes the requirements for feasibility, consistency, and completeness. It may include visual modeling like diagrams or workflows to better understand the system.
+
+- **Requirement Validation:**  
+  Validation ensures that the documented requirements match what the stakeholders really need. This is often done via reviews, walkthroughs, and feedback sessions.
+
+
+
+
 
