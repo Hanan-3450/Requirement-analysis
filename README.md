@@ -77,6 +77,21 @@ Non-functional requirements describe **how the system performs** its functions. 
 - All data must be encrypted in transit and at rest to ensure security.
 
 
+## Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between users (actors) and the system. They help stakeholders understand the system’s functionality at a glance and clarify system boundaries and responsibilities.
+
+**Benefits of Use Case Diagrams**
+- Clearly show how users interact with the system
+- Help identify functional requirements early
+- Simplify communication between technical and non-technical team members
+
+### ALX Booking Management System Use Case Diagram
+
+![ALX Booking Use Case Diagram](alx-booking-uc.png)
+
+
+
 
 
 
