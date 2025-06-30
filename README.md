@@ -22,4 +22,19 @@ The goal is to make sure that the development team understands **what** needs to
 -  It reduces risks by ensuring everyone has a shared understanding.
 -  It sets the foundation for design, development, and testing phases.
 
+  ## Why is Requirement Analysis Important?
+
+Requirement Analysis plays a vital role in ensuring software projects are successful. Here are some key reasons why it is important in the SDLC:
+
+1️. **Clear Understanding of Needs:**  
+It ensures that the development team fully understands what the users, customers, and stakeholders expect. This prevents building the wrong product.
+
+2️. **Reduced Development Risks:**  
+By identifying potential issues early in the process, Requirement Analysis helps avoid costly errors, delays, or major redesigns later on.
+
+3️. **Better Planning and Design:**  
+It provides a solid foundation for creating system designs, schedules, budgets, and testing plans. Good requirements lead to more accurate planning.
+
+
+
 
